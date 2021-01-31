@@ -1,0 +1,2 @@
+# wg-dash
+Wireguard Dashboard
